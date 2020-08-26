@@ -11,7 +11,7 @@ Me gusta ser autodidacta 🌎 y nunca parar de aprender 📚
 
 Skills: HTML / CSS/ JAVASCRIPT/ PHP/ JAVA/ SQL 👨🏽‍💻
 
-- 🔭 Actualmente estoy trabajando en una <a href="https://github.com/mgongorag/pokedex>POKEDEX</a>
+- 🔭 Actualmente estoy trabajando en una <a href="https://github.com/mgongorag/pokedex">POKEDEX</a>
 - 🌱 Actualmente estoy aprendiendo Angular
 
 
