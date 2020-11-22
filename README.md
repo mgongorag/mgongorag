@@ -9,7 +9,7 @@ Sueño con ser un gran desarrollador de software 🚀<br>
 Me gusta ser autodidacta 🌎 y nunca parar de aprender 📚
 
 
-Skills: HTML / CSS/ JAVASCRIPT/ PHP/ JAVA/ SQL / Angular 👨🏽‍💻
+Skills: HTML / CSS/ JAVASCRIPT/ C#/ VBA / JAVA/ SQL / Angular 👨🏽‍💻
 
 - 🔭 Actualmente estoy trabajando en una <a href="https://github.com/mgongorag/pokedex">POKEDEX</a>
 - 🌱 Actualmente estoy aprendiendo Angular
