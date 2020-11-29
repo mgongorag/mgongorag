@@ -1,6 +1,6 @@
 
 ### ¡Bienvenidos!👋 mi nombre es Miguel Góngora
-#### -Programador web
+#### -Full Stack Web Developer
 ![-Programador web](https://s3.amazonaws.com/media-p.slid.es/uploads/20063/images/5199408/front-end-developers-openings-1.gif)
 
 Soy estudiante de Ingeniería en sistemas, cursando actualmente el 4to año de la carrera. <br>
