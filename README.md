@@ -3,7 +3,7 @@
 #### -Full Stack Web Developer
 ![-Programador web](https://s3.amazonaws.com/media-p.slid.es/uploads/20063/images/5199408/front-end-developers-openings-1.gif)
 
-Soy estudiante de Ingeniería en sistemas, cursando actualmente el 4to año de la carrera. <br>
+Soy estudiante de Ingeniería en sistemas, cursando actualmente el 5to año de la carrera. <br>
 Desde que hice mi primer hola mundo quedé fascinado con la programación, siendo este mi punto mas fuerte de mi carrera.<br>
 Sueño con ser un gran desarrollador de software 🚀<br>
 Me gusta ser autodidacta 🌎 y nunca parar de aprender 📚
@@ -11,7 +11,7 @@ Me gusta ser autodidacta 🌎 y nunca parar de aprender 📚
 
 Skills: HTML / CSS/ JAVASCRIPT/ C#/ VBA / JAVA/ SQL SERVER / Angular 👨🏽‍💻
 
-- 🔭 Actualmente estoy trabajando en una <a href="https://github.com/mgongorag/pokedex">POKEDEX</a>
+- 🔭 Actualmente estoy trabajando en un <a href="https://github.com/mgongorag/api-rest-ShoppingCart">carrito de compras</a>
 - 🌱 Actualmente estoy aprendiendo Angular
 
 
